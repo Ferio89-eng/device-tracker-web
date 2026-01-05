@@ -1,0 +1,7 @@
+{
+  "name": "Device Tracker Pro",
+  "description": "Real-time geolocation tracking application using Supabase and Leaflet.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
